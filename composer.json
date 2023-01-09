@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Celest Chang",
+        "email": "21000243@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
